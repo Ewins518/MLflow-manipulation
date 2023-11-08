@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ewins/Documents/QFM2/MLOps/Dossier%20Atelier%204-MLflow-Databricks-Azure/mlruns/104924702036323698/46bef9ece12142dfa99d71627b10d453/artifacts
+end_time: 1697453542130
+entry_point_name: ''
+experiment_id: '104924702036323698'
+lifecycle_stage: active
+run_id: 46bef9ece12142dfa99d71627b10d453
+run_name: wistful-lark-386
+run_uuid: 46bef9ece12142dfa99d71627b10d453
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697453540130
+status: 3
+tags: []
+user_id: ewins

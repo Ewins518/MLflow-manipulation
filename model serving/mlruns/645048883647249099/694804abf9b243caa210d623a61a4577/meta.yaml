@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ewins/Documents/QFM2/MLOps/Dossier%20Atelier%204-MLflow-Databricks-Azure/mlruns/645048883647249099/694804abf9b243caa210d623a61a4577/artifacts
+end_time: 1697451757460
+entry_point_name: ''
+experiment_id: '645048883647249099'
+lifecycle_stage: active
+run_id: 694804abf9b243caa210d623a61a4577
+run_name: capricious-swan-172
+run_uuid: 694804abf9b243caa210d623a61a4577
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697451754095
+status: 3
+tags: []
+user_id: ewins

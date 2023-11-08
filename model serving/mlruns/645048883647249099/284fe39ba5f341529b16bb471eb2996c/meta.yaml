@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ewins/Documents/QFM2/MLOps/Dossier%20Atelier%204-MLflow-Databricks-Azure/mlruns/645048883647249099/284fe39ba5f341529b16bb471eb2996c/artifacts
+end_time: 1697451870020
+entry_point_name: ''
+experiment_id: '645048883647249099'
+lifecycle_stage: active
+run_id: 284fe39ba5f341529b16bb471eb2996c
+run_name: skillful-zebra-459
+run_uuid: 284fe39ba5f341529b16bb471eb2996c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697451820810
+status: 3
+tags: []
+user_id: ewins

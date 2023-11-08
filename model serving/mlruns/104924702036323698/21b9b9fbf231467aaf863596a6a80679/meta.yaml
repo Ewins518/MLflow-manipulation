@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ewins/Documents/QFM2/MLOps/Dossier%20Atelier%204-MLflow-Databricks-Azure/mlruns/104924702036323698/21b9b9fbf231467aaf863596a6a80679/artifacts
+end_time: 1697453536117
+entry_point_name: ''
+experiment_id: '104924702036323698'
+lifecycle_stage: active
+run_id: 21b9b9fbf231467aaf863596a6a80679
+run_name: bright-smelt-586
+run_uuid: 21b9b9fbf231467aaf863596a6a80679
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697453534003
+status: 3
+tags: []
+user_id: ewins

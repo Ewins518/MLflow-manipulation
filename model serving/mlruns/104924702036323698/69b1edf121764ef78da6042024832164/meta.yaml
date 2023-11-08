@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ewins/Documents/QFM2/MLOps/Dossier%20Atelier%204-MLflow-Databricks-Azure/mlruns/104924702036323698/69b1edf121764ef78da6042024832164/artifacts
+end_time: 1697453507519
+entry_point_name: ''
+experiment_id: '104924702036323698'
+lifecycle_stage: active
+run_id: 69b1edf121764ef78da6042024832164
+run_name: merciful-sloth-833
+run_uuid: 69b1edf121764ef78da6042024832164
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697453505610
+status: 3
+tags: []
+user_id: ewins

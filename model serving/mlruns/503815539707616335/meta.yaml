@@ -1,0 +1,6 @@
+artifact_location: file:///home/ewins/Documents/QFM2/MLOps/Dossier%20Atelier%204-MLflow-Databricks-Azure/mlruns/503815539707616335
+creation_time: 1698442708316
+experiment_id: '503815539707616335'
+last_update_time: 1698442708316
+lifecycle_stage: active
+name: TF_Keras_MNIST

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ewins/Documents/QFM2/MLOps/Dossier%20Atelier%204-MLflow-Databricks-Azure/mlruns/104924702036323698/421f0a444b1b48dca633b474cb0d6792/artifacts
+end_time: 1697453527965
+entry_point_name: ''
+experiment_id: '104924702036323698'
+lifecycle_stage: active
+run_id: 421f0a444b1b48dca633b474cb0d6792
+run_name: bittersweet-roo-654
+run_uuid: 421f0a444b1b48dca633b474cb0d6792
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697453525972
+status: 3
+tags: []
+user_id: ewins

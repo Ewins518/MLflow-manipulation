@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ewins/Documents/QFM2/MLOps/Dossier%20Atelier%204-MLflow-Databricks-Azure/mlruns/645048883647249099/be5a0c69c71348c5a3daff4cc7750c27/artifacts
+end_time: 1697452800996
+entry_point_name: ''
+experiment_id: '645048883647249099'
+lifecycle_stage: active
+run_id: be5a0c69c71348c5a3daff4cc7750c27
+run_name: fearless-bear-231
+run_uuid: be5a0c69c71348c5a3daff4cc7750c27
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697452752989
+status: 3
+tags: []
+user_id: ewins

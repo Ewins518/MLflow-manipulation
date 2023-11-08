@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ewins/Documents/QFM2/MLOps/Dossier%20Atelier%204-MLflow-Databricks-Azure/mlruns/645048883647249099/85d0af3e48704298a111ad9d7d3dc0ec/artifacts
+end_time: 1697452862809
+entry_point_name: ''
+experiment_id: '645048883647249099'
+lifecycle_stage: active
+run_id: 85d0af3e48704298a111ad9d7d3dc0ec
+run_name: bouncy-fawn-638
+run_uuid: 85d0af3e48704298a111ad9d7d3dc0ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697452815087
+status: 3
+tags: []
+user_id: ewins

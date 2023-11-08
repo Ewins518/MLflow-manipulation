@@ -1,0 +1,6 @@
+artifact_location: file:///home/ewins/Documents/QFM2/MLOps/Dossier%20Atelier%204-MLflow-Databricks-Azure/mlruns/104924702036323698
+creation_time: 1697453503655
+experiment_id: '104924702036323698'
+last_update_time: 1697453503655
+lifecycle_stage: active
+name: sklearn_creditcard_broad_search

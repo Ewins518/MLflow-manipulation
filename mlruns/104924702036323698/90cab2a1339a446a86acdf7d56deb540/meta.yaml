@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ewins/Documents/QFM2/MLOps/Dossier%20Atelier%204-MLflow-Databricks-Azure/mlruns/104924702036323698/90cab2a1339a446a86acdf7d56deb540/artifacts
+end_time: 1697453519962
+entry_point_name: ''
+experiment_id: '104924702036323698'
+lifecycle_stage: active
+run_id: 90cab2a1339a446a86acdf7d56deb540
+run_name: legendary-cat-12
+run_uuid: 90cab2a1339a446a86acdf7d56deb540
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697453517969
+status: 3
+tags: []
+user_id: ewins

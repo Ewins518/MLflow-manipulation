@@ -1,0 +1,6 @@
+artifact_location: file:///home/ewins/Documents/QFM2/MLOps/Dossier%20Atelier%204-MLflow-Databricks-Azure/mlruns/253737335159559904
+creation_time: 1698443857723
+experiment_id: '253737335159559904'
+last_update_time: 1698443857723
+lifecycle_stage: active
+name: PySpark_CreditCard

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ewins/Documents/QFM2/MLOps/Dossier%20Atelier%204-MLflow-Databricks-Azure/mlruns/104924702036323698/0528529c8af44378ad7fa350e6c55949/artifacts
+end_time: 1697453533999
+entry_point_name: ''
+experiment_id: '104924702036323698'
+lifecycle_stage: active
+run_id: 0528529c8af44378ad7fa350e6c55949
+run_name: efficient-sheep-165
+run_uuid: 0528529c8af44378ad7fa350e6c55949
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697453532001
+status: 3
+tags: []
+user_id: ewins

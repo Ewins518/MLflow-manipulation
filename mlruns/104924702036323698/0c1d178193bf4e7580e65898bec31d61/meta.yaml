@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ewins/Documents/QFM2/MLOps/Dossier%20Atelier%204-MLflow-Databricks-Azure/mlruns/104924702036323698/0c1d178193bf4e7580e65898bec31d61/artifacts
+end_time: 1697453521935
+entry_point_name: ''
+experiment_id: '104924702036323698'
+lifecycle_stage: active
+run_id: 0c1d178193bf4e7580e65898bec31d61
+run_name: traveling-pug-818
+run_uuid: 0c1d178193bf4e7580e65898bec31d61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697453519965
+status: 3
+tags: []
+user_id: ewins
